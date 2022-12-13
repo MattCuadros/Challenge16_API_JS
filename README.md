@@ -2,7 +2,7 @@
 
 ---
 
-In this Challenge, i used Vanilla Javascript and Bootstrap, to make an API Request of <a href="https://mindicador.cl/">https://mindicador.cl/</a> and get Currencies data indicators for make different conversions to Chilean Pesos.
+In this Challenge, i used Vanilla Javascript and Bootstrap, to make an API Request from <a href="https://mindicador.cl/">https://mindicador.cl/</a> and to get Currencies  indicators for make different conversions to Chilean Pesos.
 
 >>The  installation method for Bootstrap was mediantly NPM.
 You can view the Deployed Page on GitHub-Pages in this <a href="https://mattcuadros.github.io/Challenge16_API_JS/" target="_blank">Link</a>
